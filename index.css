@@ -1,0 +1,22 @@
+body {
+	font-family: monospace;
+	font-size: xx-large;
+	font-weight: !important;
+	text-align: center;
+	margin: 100px 50px;
+	line-height: 100px;
+	background-color: lightblue;
+}
+
+button {
+	row-gap: 150px;
+	font-weight: !important;
+	width: 180px;
+	height: 55px;
+	text-align: center;
+	font-size: x-large;
+	border: 3px solid black;
+}
+span {
+	text-decoration-line: underline;
+}
